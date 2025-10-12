@@ -556,7 +556,7 @@ GameObject:
   - component: {fileID: 1140879424}
   - component: {fileID: 1140879423}
   m_Layer: 0
-  m_Name: Sphere 2 Cubemap
+  m_Name: Sphere 2 My Shader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
